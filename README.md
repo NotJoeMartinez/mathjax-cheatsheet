@@ -1,13 +1,36 @@
+### Fractions
+`\frac{numerator}{denominator}`
+$$
+\frac{3}{2}
+$$
 
-https://www.bearnok.com/grva/it/knowledge/software/mathjax
+Fractions within fractions 
+`\frac{\frac{4}{3}}{2}`
+
+$$
+\frac{\frac{4}{3}}{2}
+$$
+
+
+### Division 
+`\div`
+$$
+4 \div 2
+$$
+
 
 ### Less than or equal to
 `\leq`
-$a \leq{b}$
+$$
+a \leq{b}
+$$
 
 ## Greater than or equal to
 `\geq`
-$a \geq{b}$
+$$
+a \geq{b}
+$$
+
 
 ### Matrix
 ```
@@ -29,25 +52,38 @@ $$
 ### Negation
 
 `\neg`
-$\neg$
+$$
+\neg
+$$
 ###  Conjunction 
 `\land`
-$\land$
+$$
+\land
+$$
 ### Disjunction 
 `\lor`
-$\lor$
+$$
+\lor
+$$
 ### Implication 
 
 `\rightarrow`
-$\rightarrow$
+$$
+\rightarrow
+$$
 
 `\to`
-$\to$
+$$
+\to
+$$
 ### Bidirectional  Implication
 `\leftrightarrow`
-$\leftrightarrow$
+$$
+\leftrightarrow
+$$
 
 ### Equivalence
 `\equiv`
-$\equiv$
-
+$$
+\equiv
+$$
